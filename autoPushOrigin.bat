@@ -4,5 +4,5 @@ set https_proxy=127.0.0.1:7890
 git branch
 git add .
 git commit -m "push by bat %date%"
-git push origin newBranch
+git push origin
 set /p input=press any key to continue
