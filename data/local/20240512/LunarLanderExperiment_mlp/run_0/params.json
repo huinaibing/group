@@ -1,0 +1,1 @@
+{"env_id": "LunarLander-v2", "lr": 0.0003, "gain_type": "xavier", "debug": false, "network": "mlp", "fcs": "[64, 64]", "name": "LunarLanderExperiment_mlp", "run_ID": 0}

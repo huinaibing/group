@@ -1,0 +1,1 @@
+{"env_id": "LunarLander-v2", "lr": 0.001, "gain_type": "xavier", "debug": false, "network": "equivariant", "fcs": "[64, 64]", "name": "LunarLanderExperiment_equivariant", "run_ID": 0}

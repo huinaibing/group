@@ -1,0 +1,24 @@
+FPS = 2
+
+MAX_FRAMES=400
+
+N_LANES = 3
+LANE_LENGTH = 6
+
+INITIAL_SUN_AMOUNT = 50
+
+# Sun that falls from the sky
+NATURAL_SUN_PRODUCTION = 25
+NATURAL_SUN_PRODUCTION_COOLDOWN = 10
+
+# Mowers
+MOWERS = False
+
+# Score values
+SURVIVAL = 100
+SURVIVAL_STEP = 200 # every 100 sec survival reward increases
+SCORE_ALIVE_PLANT = 0
+SCORE_ALIVE_MOWER = 0
+
+# Score 10/10
+# Scorebis : 10/20

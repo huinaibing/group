@@ -1,0 +1,1 @@
+{"env_id": "pvz-env-v2", "lr": 0.0001, "gain_type": "xavier", "debug": false, "network": "mlp", "fcs": "[512, 512]", "name": "pvzExperiment_mlp", "run_ID": 0}
